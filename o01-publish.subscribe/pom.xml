@@ -9,11 +9,9 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>b02-template-method</artifactId>
+    <artifactId>o01-publish.subscribe</artifactId>
     <version>1.0-SNAPSHOT</version>
+    <description>发布/订阅模式</description>
 
 
-    <description>
-
-    </description>
 </project>

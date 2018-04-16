@@ -10,10 +10,11 @@
     <version>1.0-SNAPSHOT</version>
     <modules>
         <module>b01-command</module>
-        <module>b02-template-method</module>
+        <module>b02-template.method</module>
         <module>b03-observer</module>
-        <module>o01-publish-subscribe</module>
-        <module>s01-currentState</module>
+        <module>b04-state</module>
+        <module>o01-publish.subscribe</module>
+        <module>o02-event.driven</module>
     </modules>
     <packaging>pom</packaging>
 
