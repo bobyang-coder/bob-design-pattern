@@ -15,6 +15,7 @@
         <module>b04-state</module>
         <module>o01-publish.subscribe</module>
         <module>o02-event.driven</module>
+        <module>o03-delegate</module>
     </modules>
     <packaging>pom</packaging>
 
